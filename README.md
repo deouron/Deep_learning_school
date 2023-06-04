@@ -25,3 +25,7 @@
 ---
 
 7. [Генеративно-состязательные модели](https://github.com/deouron/Deep_learning_school/blob/main/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D1%81%D0%BE%D1%81%D1%82%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8/%5Bhw%5Dgan.ipynb). Подготовка данных, построение и обучение модели. Генерация изображений, реализация Leave-one-out-1-NN classifier accuracy для оценки качества сгенерированных картинок. 
+
+---
+
+8. [Финальный проект](https://github.com/deouron/Painting_style_transferor)
