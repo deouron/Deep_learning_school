@@ -28,4 +28,4 @@
 
 ---
 
-8. [Финальный проект](https://github.com/deouron/Painting_style_transferor)
+8. [Финальный проект](https://github.com/deouron/Painting_style_transferor). Телеграм бот, который способен переносить стиль одной фотографии на другую с помощью GAN.
